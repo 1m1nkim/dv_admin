@@ -20,7 +20,7 @@ Vue.js 코딩: 사용자 인터페이스와 상호작용을 위한 Vue.js 컴포
 스프링과 서버 연동: 서버와 클라이언트 간의 데이터 흐름을 최적화하기 위해 Spring Boot와 Vue.js를 연동했습니다.
 
 사용된 도구 및 기술 : 
-프레임 워크 : Spring boot, Vue.js, Java
+프레임 워크 : Spring boot, Vue.js, TypeScript, ElementPlus,Java
 데이터베이스 : MySQL, JPA, JQuery, MyBatis
 버전 관리 : Git
 
